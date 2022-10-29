@@ -13,6 +13,7 @@ public class ArithmeticProgram1 {
 		}
 		//System.out.println(c);
 		System.out.println("End");
+		System.out.println("******");
 	}
 
 }
